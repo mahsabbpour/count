@@ -1,7 +1,5 @@
 # count
 
-![view final](https://user-images.githubusercontent.com/109727844/204102930-fac80657-4d16-4816-b476-a88e984abefe.jpg)
-
 - [Demo Project](https://mahsabbpour.github.io/count/)
 
 - Developed by Mahsa Babapour
